@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{456E32E3-FB26-49AE-BE1A-5C46C3638BBF}|Default">
+  <MonoDevelop.Ide.ItemProperties.ScratchPad.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.340123ccb70a163d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScratchPad/ScratchPad/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ScratchPad/ScratchPad/App.xaml" Line="8" Column="15" />
+      <File FileName="ScratchPad/ScratchPad/App.xaml.cs" Line="18" Column="10" />
+      <File FileName="ScratchPad/ScratchPad/MainPage.xaml" Line="53" Column="65" />
+      <File FileName="ScratchPad/ScratchPad/MainPage.xaml.cs" Line="108" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ScratchPad" expanded="True">
+            <Node name="ScratchPad.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/virtualemployee/Downloads/ScratchPad-master/ScratchPad/ScratchPad/MainPage.xaml.cs" relfile="ScratchPad/ScratchPad/MainPage.xaml.cs" line="105" column="1" />
+      <Breakpoint file="/Users/virtualemployee/Downloads/ScratchPad-master/ScratchPad/ScratchPad/MainPage.xaml.cs" relfile="ScratchPad/ScratchPad/MainPage.xaml.cs" line="55" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
